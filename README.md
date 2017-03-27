@@ -62,7 +62,7 @@
 
  第二步，编辑 demo/src/components/Hello.vue 文件
 
-   在 template 中添加如下代码
+   在 Hello.vue 中添加如下代码
 
     <template>
       <div class="hello">
